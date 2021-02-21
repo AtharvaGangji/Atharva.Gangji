@@ -6,11 +6,7 @@ html {
 
   font-family: "Raleway", sans-serif;
 
-  font-size:50px;
-  position: absolute;
-  top: 10%;
-  bottom:10%;
-  left:60%;
-  right:10%;
+  text-align:left;
+  margin-left:20px;
 }
 
